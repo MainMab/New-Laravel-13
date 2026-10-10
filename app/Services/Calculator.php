@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+// Git Practice
 class Calculator
 {
     public function add(int $a, int $b): int
